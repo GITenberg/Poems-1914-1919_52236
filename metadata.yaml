@@ -1,0 +1,30 @@
+_repo: Poems-1914-1919_52236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2016-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'In Memoriam A.H. -- Diffugere Nives, 1917 -- Julian Grenfell --
+  Pierre -- Icarus -- Epitaph -- August, 1918 -- Vita Nuova -- Italy -- Seville --
+  Greece -- Russia -- A June Night in Russia -- Harvest in Russia -- Dostoyevsky --
+  Beethoven -- Mozart -- Wagner -- Shelley -- Phèdre -- The Wounded -- Sonnets: 1913-1914
+  -- Elegy on the Death of Juliet''s Owl -- Le Prince Errant.'
+title: Poems, 1914-1919
+url: http://www.gutenberg.org/ebooks/52236
